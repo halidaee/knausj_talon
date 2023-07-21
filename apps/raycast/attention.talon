@@ -1,4 +1,4 @@
 os: mac
 -
 
-slide: key(alt-s)
+raycast: key(cmd-space)
